@@ -113,7 +113,7 @@ In a business context, identifying churners correctly (high recall) is more valu
    cd customer-churn-analysis
    ```
 
-````
+
 
 2. **Install dependencies**:
 
@@ -135,7 +135,7 @@ In a business context, identifying churners correctly (high recall) is more valu
 
 4. **Run cells**: Execute cells sequentially to reproduce the analysis and train models.
 
-````
+
 ---
 
 ## Technologies Used
@@ -147,4 +147,3 @@ In a business context, identifying churners correctly (high recall) is more valu
 * **Scikit-learn**: ML algorithms and preprocessing
 * **XGBoost**: Gradient boosting model
 * **Imbalanced-learn (SMOTE)**: Class imbalance handling
-````
